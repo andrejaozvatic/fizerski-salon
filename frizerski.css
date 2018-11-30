@@ -1,0 +1,132 @@
+
+.slideshow {
+  width: 400px;
+  height: auto;
+  margin: 50px auto;
+  background-color: #d590434d;
+}
+
+.name p{
+  display: inline;
+  font-family: 'Rokkitt', serif;
+}
+header {
+  background-image: url(https://www.insidefabric.com/images/product/large/5003280-modern-trellis-cirrus-by-fschumacher.jpg);
+  display: inline;
+  padding-right: 10px;
+  font-family: 'Rokkitt', serif;
+  height: 180px;
+}
+.nav {
+  margin-bottom: 5px;
+}
+ header h3 {
+   color: #998d8d;
+   padding-top: 60px;
+   padding-left: 30px;
+   font-family: 'Rokkitt', serif;
+   font-size: 40px;
+   font-weight: bold;
+ }
+ header a {
+   text-decoration: none;
+   color:#998d8d;
+   font-weight: bold;
+ }
+ .slideshow img {
+   width: 400px;
+   height: 560px;
+ }
+ .offer {
+   margin: 30px;
+   font-family: 'Rokkitt', serif;
+   text-align: center;
+ }
+ .offer h2 {
+   margin-bottom: 30px;
+ }
+ .subscribe h2 {
+   text-align: center;
+   padding: 20px;
+   font-family: 'Rokkitt', serif;
+ }
+ .subscribe {
+   text-align:left;
+   background-color: #a88f8199;;
+   color: white;
+   font-family: 'Rokkitt', serif;
+   margin-top: 50px;
+   padding: 50px;
+   height: 480px;
+ }
+.card-title {
+  background-color: #998d8d;
+  color: white;
+  text-align: center;
+}
+.card {
+  background-color: #998d8d;
+}
+.termini {
+  width: 50%;
+}
+.input {
+  width: 50%;
+  position: relative;
+  margin: 20px;
+}
+table {
+  width: 50%;
+  margin-left: 800px;
+  margin-top: 0;
+  position: relative;
+  bottom: 290px;
+}
+.faq {
+  font-family: 'Rokkitt', serif;
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  background-image: url(https://www.insidefabric.com/images/product/large/5003280-modern-trellis-cirrus-by-fschumacher.jpg);
+  padding: 60px;
+}
+.askedquestions {
+  margin: 60px;
+  width: auto;
+  font-family: 'Rokkitt', serif;
+  font-size: 18px;
+}
+
+}
+.kontakt {
+  display: inline;
+  width: 30%;
+  position: relative;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+.slika {
+  margin-left: 500px;
+  bottom: 150px;
+  width: 30%;
+  position: relative;
+}
+.navigacija {
+  margin-left: 900px;
+  bottom: 280px;
+  text-decoration: none;
+  width: 30%;
+  position: relative;
+  line-height: 35px;
+}
+
+footer{
+  padding: 20px;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  background-color: #998d8d;
+  height: 300px;
+  font-family: 'Rokkitt', serif;
+  color: white;
+  font-size: 21px;
+}
